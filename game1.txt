@@ -1,0 +1,10 @@
+Player is dealt: 19
+Dealer is dealt: 7
+|Player Cards: [9,10,] : 19 total: 19| Dealer Cards: [2,5,] : 7 total: 7|
+Player will stand with: 19
+Dealer wants to hit. He is dealt: 5
+Dealer wants to hit. He is dealt: 5
+Dealer will stay with: 17
+Game is over! Player has a higher hand. Player wins with hand of: 19
+|Player Cards: [9,10,] : 19 total: 19| Dealer Cards: [2,5,5,5,] : 17 total: 17|
+The game tally is: 1

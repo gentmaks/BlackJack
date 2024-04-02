@@ -1,0 +1,7 @@
+Player is dealt: 14
+Dealer is dealt: 20
+|Player Cards: [4,10,] : 14 total: 14| Dealer Cards: [10,10,] : 20 total: 20|
+Player wants to hit. He is dealt: 8
+Game is over! Player has busted and dealer wins!
+|Player Cards: [4,10,8,] : 22 total: 22| Dealer Cards: [10,10,] : 20 total: 20|
+The game tally is: -1

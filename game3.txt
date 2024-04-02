@@ -1,0 +1,9 @@
+Player is dealt: 14
+Dealer is dealt: 20
+|Player Cards: [5,9,] : 14 total: 14| Dealer Cards: [10,10,] : 20 total: 20|
+Player wants to hit. He is dealt: 6
+Player will stand with: 20
+Dealer will stay with: 20
+It is a PUSH! Dealer and player have the same hand
+|Player Cards: [5,9,6,] : 20 total: 20| Dealer Cards: [10,10,] : 20 total: 20|
+The game tally is: 0
